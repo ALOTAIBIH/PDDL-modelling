@@ -1,15 +1,3 @@
-# PDDL-modelling
-# COMP90054 AI Planning for Autonomy - Project 2 - PDDL modelling 
-
-You must read fully and carefully the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
-
-* **Course:** [COMP90054 AI Planning for Autonomy](https://handbook.unimelb.edu.au/subjects/comp90054) @ Semester 2, 2020
-* **Instructor:** Dr. Nir Lipovetzky and Prof. Adrian Pearce
-* **Deadline:** Sunday 13th September, 2020 @ 11:59pm (end of Week 6)
-* **Course Weight:** 5%
-* **Assignment type:**: Individual
-* **ILOs covered:** 1, 2, and 3
-* **Submission method:** via git tagging (see Submission Instructions below for instructions)
 
 The **aim of this project** is to improve your understanding of PDDL modelling.
 
